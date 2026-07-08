@@ -1,0 +1,9 @@
+{
+  "name": "qbo-connector",
+  "version": "0.1.0",
+  "description": "Connect a Vellum Assistant to QuickBooks Online through Intuit OAuth, discover the books' structure, and keep the connection alive.",
+  "peerDependencies": {
+    "@vellumai/plugin-api": "^0.8.0"
+  },
+  "vellum": {}
+}

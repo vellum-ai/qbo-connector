@@ -1,0 +1,6 @@
+{
+  "redirect_uri_default": "https://developer.intuit.com/v2/OAuth2Playground/RedirectUrl",
+  "reauth_warning_profile_default": "heads-up",
+  "token_refresh_threshold_seconds": 60,
+  "refresh_expiry_days": 100
+}
